@@ -11,4 +11,6 @@ A code block:
 # code block
 int x = 2;
 int y = 3;
+return x + y;
 ```
+The above code will return 5.
