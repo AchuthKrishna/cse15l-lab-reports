@@ -7,6 +7,8 @@
 
 Some `Inline code`
 A code block:
+```
 # code block
 int x = 2;
 int y = 3;
+```
