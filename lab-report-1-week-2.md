@@ -1,2 +1,2 @@
 Lab Image:
-![LabScreenShot.png]
+![Image](LabScreenshot.png)
