@@ -2,7 +2,7 @@
 ## Lab 2
 ---
 **Links/Images:**
-* [Lab](https://ucsd-cse15l-w22.github.io/week/week2/)
+* [Lab Report 1](https://achuthkrishna.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 ![Image](https://media.techeblog.com/images/liberty-walk-ferrari-308.jpg)
 
 Some `Inline code`and
