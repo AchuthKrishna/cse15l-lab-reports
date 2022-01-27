@@ -1,1 +1,3 @@
-To be filled with Lab Report 2
+# Lab Report 2
+## Testing and Debugging
+---
