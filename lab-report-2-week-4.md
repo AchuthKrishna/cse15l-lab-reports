@@ -4,8 +4,10 @@
 **First Change:**
 This change was made in response to the following error message from [this failure-inducing markdown file](https://github.com/AchuthKrishna/markdown-parse/blob/d4926b7f1042275372910d358593c70c443af221/test-file2.md):
 ![Image](Error1.png)
+As seen, the list of links contains an item which is not a link.
 The changes made to fix this issue are as shown:
 ![Image](FirstChangeScreenshot.png)
+This fix involves checking if the item within the parentheses is actually a link by checking for the existence of a "." character and for the non-existence of spaces. If the item in parentheses fails to meet either of these criteria, the item is not added to the list of links.
 
 **Second Change:**
 This change was made in response to the following error message from [this failure-inducing markdown file with an image](https://github.com/AchuthKrishna/markdown-parse/blob/30921ad68e84ae6b1d1913820656cff57dd38f8c/imageTest.md):
