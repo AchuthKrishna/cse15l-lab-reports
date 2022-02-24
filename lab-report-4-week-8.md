@@ -2,7 +2,10 @@
 ## Code Review
 ---
 Link to [my markdownparse repository](https://github.com/AchuthKrishna/markdown-parse-group-version)
+
 Link to [the reviewed markdownparse repository](https://github.com/yi113/markdown-parse)
+
+**NOTE: As the reviewed repository is someone else's, I did not commit and push the tests/test files to that repository**
 
 **Test One:**
 
