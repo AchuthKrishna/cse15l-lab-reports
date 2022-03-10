@@ -25,8 +25,7 @@ Test file 22.md:
 Test file 194.md:
 ![Image](mdPreview2.png)
 
-In the first test case (22.md), we see that the expected output is exactly one link. Therefore, our implementation is correct 
-and the class implementation is incorrect for this markdown test case. The bug with the class implementation that 
+In the first test case (22.md), we see that the expected output is exactly one link. Therefore, the class implementation is incorrect for this markdown test case. However, our program is also incorrect because it identifies both the link and the title as the link. The bug with the class implementation that 
 leads to this symptom lies in the following code block:
 
 Test file 22.md:
