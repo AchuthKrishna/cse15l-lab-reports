@@ -15,9 +15,9 @@ To find these different results, we successfully used `diff` to print out the ou
 implementations. However, to find the exact markdown files where the differences occurred, 
 we had to look at the line number indicated by the output, as the file name was not printed.
 
-As can be seen, the differences between the tests lies in the class implementation not identifying any links,
-and our implementation identifying at least one item as a link in that test file. The correct outputs should correspond
-to the following markdown previews:
+As can be seen, the differences between the tests lies in the class implementation
+and our implementation either identifying at least one item as a link in that test file, while the other prints no links, or vice versa. 
+The correct outputs should correspond to the following markdown previews:
 
 Test file 22.md:
 ![Image](mdPreview1.png)
